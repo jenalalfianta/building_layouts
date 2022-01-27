@@ -34,7 +34,7 @@ class _MyAppState extends State<MyApp> {
         body: ListView(
           children: [
             Image.asset(
-              'images/lake.jpg',
+              'image/lakes.jpg',
               width: 600,
               height: 240,
               fit: BoxFit.cover
